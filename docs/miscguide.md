@@ -1542,3 +1542,4 @@
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors
 * [HackTyper](https://hackertyper.net/), [HackerTyper](https://hackertyper.com/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
+* [Random web generator](https://randomweb.click/) - Discover Random Internet Sites with One Click
